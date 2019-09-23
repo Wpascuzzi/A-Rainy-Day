@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - GroundCheck
+  - Center
+  - Background
+  - Umbrella
+  - Spawner
+  - Debris
+  - Deleter
+  - block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - ogbg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg4
+    uniqueID: 1118815339
+    locked: 0
+  - name: bg3
+    uniqueID: 1426383677
+    locked: 0
+  - name: bg2
+    uniqueID: 1028043833
+    locked: 0
+  - name: Background
+    uniqueID: 597001835
+    locked: 0
+  - name: ground
+    uniqueID: 3009977647
+    locked: 0
+  - name: Player
+    uniqueID: 3172758737
+    locked: 0
+  - name: Hazards
+    uniqueID: 3957690137
+    locked: 0
